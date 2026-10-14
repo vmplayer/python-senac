@@ -9,7 +9,7 @@ Trilha de **Python** e **Inteligência Artificial** do **Senac São Leopoldo** |
 </div>
 
 Primeiro curso da **Trilha** de **Python**, parte do programa *RS TI*.
-O curso é voltado para desenvolver sistemas básicos com Python, 
+O curso é voltado para desenvolver sistemas básicos com Python.
 
 * Professor: [Daniel Henrique de Souza](https://github.com/dhDSouza)
 * Repositório de Referência: [Repositório](https://github.com/dhDSouza/construindo_sistemas_inteligentes)
