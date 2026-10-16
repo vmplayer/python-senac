@@ -41,4 +41,3 @@ if not em_manutencao:
     print("Robô disponível para uma missão.")
 else:
     print("Aguarde o fim da manutenção.")
-    
