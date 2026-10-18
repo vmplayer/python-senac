@@ -3,6 +3,8 @@ Trilha de **Python** e **Inteligência Artificial** do **Senac São Leopoldo** |
 
 <div align="center">
 
+![Banner](./Assets/Readme%20Images/Credits_meruismissing.jpeg)
+
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-success?style=for-the-badge)
 ![Linguagem](https://img.shields.io/badge/Linguagem-Python-0a66c2?style=for-the-badge)
 
