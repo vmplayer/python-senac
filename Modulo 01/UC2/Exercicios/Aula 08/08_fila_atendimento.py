@@ -12,11 +12,18 @@ while True:
         add: str = input("Nome da pessoa: ")
         fila.append(add)
     elif opcao == 2:
-        print(f"{fila[0]} atendido!")
-        fila.pop(0)
+        if len(fila) > 0:
+            print(f"{fila[0]} atendido!")
+            fila.pop(0)
+        else:
+            print(f"Não há clientes a serem atendidos.")
     elif opcao == 3:
-        for pessoa in fila:
-            print(pessoa)
+        if len(fila) > 0:
+            print("\n=== PESSOAS NA FILA ===")
+            for pessoa in fila:
+                print(pessoa)
+        else:
+            print(f"Não há clientes na fila.")
     elif opcao == 0:
         break
     else:
