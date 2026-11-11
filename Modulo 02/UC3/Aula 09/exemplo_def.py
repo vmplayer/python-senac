@@ -9,4 +9,3 @@ produto_qtd4 = 8
 
 def total_venda(valor, quantidade):
     valor * quantidade
-
